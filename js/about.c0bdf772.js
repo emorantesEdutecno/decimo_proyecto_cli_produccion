@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdecimo_proyecto_cli"]=self["webpackChunkdecimo_proyecto_cli"]||[]).push([[443],{782:function(c,e,n){n.r(e),n.d(e,{default:function(){return d}});var t=n(252);const o={class:"about"},r=(0,t._)("h1",null,"This is an about page",-1),u=[r];function i(c,e){return(0,t.wg)(),(0,t.iD)("div",o,u)}var a=n(744);const s={},l=(0,a.Z)(s,[["render",i]]);var d=l}}]);
+//# sourceMappingURL=about.c0bdf772.js.map
